@@ -20,7 +20,7 @@
     "@types/socket.io-client": "^1.4.32",
     "@types/twilio-video": "^2.0.12",
     "@types/uuid": "^7.0.2",
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "dotenv": "^8.2.0",
     "history": "^4.10.1",
     "notistack": "^0.9.9",
